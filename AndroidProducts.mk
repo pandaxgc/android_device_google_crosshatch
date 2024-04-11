@@ -27,5 +27,5 @@ COMMON_LUNCH_CHOICES := \
     aosp_crosshatch-userdebug \
     aosp_blueline-userdebug \
     aosp_crosshatch_vf-userdebug \
-    lineage_blueline-userdebug \
-    lineage_crosshatch-userdebug
+    cherish_blueline-userdebug \
+    cherish_crosshatch-userdebug
